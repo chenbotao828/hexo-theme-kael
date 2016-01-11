@@ -169,7 +169,7 @@ blockquote {
 
 blockquote p {
     margin: 0.8em 0;
-    font-style: italic;
+    /*font-style: italic;*/
 }
 
 blockquote small {
@@ -539,7 +539,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .post p {
     font-size: 18px;
-    line-height: 30px;
+    line-height: 31px;
 }
 
 /* The author credit area after the post */
