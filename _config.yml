@@ -2,9 +2,13 @@
 # excerpt_link: Read More
 
 # Miscellaneous
-rss:
+# rss: 
 
 # enter your weibo ID
-weibo_show:  
+# weibo_show: 
 
-scroll_spy: true
+scroll_spy: true 
+
+baidu_tongji: true 
+
+fancybox: false #图片效果，默认

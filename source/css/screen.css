@@ -636,7 +636,7 @@ figure.highlight table {
 }
 figure.highlight table > tbody > tr > td {
     padding: 0;
-    background: #fff !important;
+    background: #fff ;
 }
 figure.highlight table > tbody > tr > td.gutter {
     max-width: 40px;
@@ -849,7 +849,7 @@ pre .chunk {
 }
 
 .share-button {
-    display: inline-block;
+    display: inline-block ;
     padding: 0 15px;
     border: #EBF2F6 2px solid;
     text-decoration: none;
